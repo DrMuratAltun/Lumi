@@ -116,6 +116,9 @@
                 "instancesCount": "Objekt som skapats med detta bibliotek som huvudinnehållstyp",
                 "instancesAsDependencyCount": "Objekt där detta bibliotek används av ett annat bibliotek"
             }
+        },
+        "links": {
+            "header": "Länkar"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Att skydda individens integritet är viktigt för oss. Vi samlar bara in den information du väljer att ge oss och vi behandlar den med ditt samtycke. Vi vill vara så transparenta som möjligt. Lumi förlitar sig dock på att vissa anslutningar och dataöverföringar fungerar.",
-        "save": "Spara",
-        "consent_warning": "Du måste åtminstone godkänna sekretesspolicyn för att använda denna applikation."
+        "consent_warning": "Du måste åtminstone godkänna sekretesspolicyn för att använda denna applikation.",
+        "accept_all": "Acceptera alla",
+        "accept_selected": "Acceptera vald"
     },
     "menu": {
         "quit": "Sluta med",

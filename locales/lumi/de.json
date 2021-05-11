@@ -252,8 +252,7 @@
         "accept_all": "Alle akzeptieren",
         "accept_selected": "Auswahl akzeptieren",
         "consent_warning": "Du musst mindestens die Datenschutzerklärung lesen und der notwendigen Verarbeitung zustimmen, um diese Anwendung verwenden zu können.",
-        "description": "Der Schutz der Privatsphäre des Einzelnen ist uns wichtig. Wir sammeln nur die Informationen, die du auswählst, und verarbeiten sie mit deiner Zustimmung. Wir wollen so transparent wie möglich sein. Lumi ist jedoch auf einige Internet-Verbindungen und Datenübertragungen angewiesen, um zu funktionieren.",
-        "save": "Speichern"
+        "description": "Der Schutz der Privatsphäre des Einzelnen ist uns wichtig. Wir sammeln nur die Informationen, die du auswählst, und verarbeiten sie mit deiner Zustimmung. Wir wollen so transparent wie möglich sein. Lumi ist jedoch auf einige Internet-Verbindungen und Datenübertragungen angewiesen, um zu funktionieren."
     },
     "updates": {
         "consent": "Ich erlaube dieser Anwendung, automatisch nach Updates zu suchen.",

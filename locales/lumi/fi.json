@@ -116,6 +116,9 @@
                 "instancesCount": "Objektit, jotka on luotu tämän kirjaston pääsisältötyypiksi",
                 "instancesAsDependencyCount": "Objektit, joissa toinen kirjasto käyttää tätä kirjastoa"
             }
+        },
+        "links": {
+            "header": "Linkit"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Yksilön yksityisyyden suojaaminen on meille tärkeää. Keräämme vain tiedot, jotka päätät antaa meille, ja käsittelemme niitä suostumuksellasi. Haluamme olla mahdollisimman avoimia. Lumi luottaa kuitenkin joihinkin yhteyksiin ja tiedonsiirtoihin työhön.",
-        "save": "Tallentaa",
-        "consent_warning": "Sinun on ainakin suostuttava tietosuojakäytäntöön tämän sovelluksen käyttämiseksi."
+        "consent_warning": "Sinun on ainakin suostuttava tietosuojakäytäntöön tämän sovelluksen käyttämiseksi.",
+        "accept_all": "Hyväksy kaikki",
+        "accept_selected": "Hyväksy valittu"
     },
     "menu": {
         "quit": "Lopettaa",

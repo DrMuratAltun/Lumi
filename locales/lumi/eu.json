@@ -116,6 +116,9 @@
                 "instancesCount": "Liburutegi honekin eduki mota nagusi gisa sortutako objektuak",
                 "instancesAsDependencyCount": "Liburutegi hau beste liburutegi batek erabiltzen dituen objektuak"
             }
+        },
+        "links": {
+            "header": "Estekak"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Norberaren pribatutasuna babestea garrantzitsua da guretzat. Eman nahi duzun informazioa soilik biltzen dugu eta zure baimenarekin tratatzen dugu. Ahalik eta gardenenak izan nahi dugu. Hala ere, Lumi konexio eta datu transferentzietan oinarritzen da lan egiteko.",
-        "save": "Gorde",
-        "consent_warning": "Aplikazio hau erabiltzeko pribatutasun politika onartu behar duzu gutxienez."
+        "consent_warning": "Aplikazio hau erabiltzeko pribatutasun politika onartu behar duzu gutxienez.",
+        "accept_all": "Onartu guztiak",
+        "accept_selected": "Onartu hautatutakoa"
     },
     "menu": {
         "quit": "Utzi",

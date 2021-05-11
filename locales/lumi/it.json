@@ -116,6 +116,9 @@
                 "instancesCount": "Oggetti creati con questa libreria come tipo di contenuto principale",
                 "instancesAsDependencyCount": "Oggetti in cui questa libreria viene utilizzata da un'altra libreria"
             }
+        },
+        "links": {
+            "header": "Collegamenti"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "La protezione della privacy dell'individuo è importante per noi. Raccogliamo solo le informazioni che scegli di fornirci e le elaboriamo con il tuo consenso. Vogliamo essere il più trasparenti possibile. Tuttavia Lumi si affida ad alcune connessioni e trasferimenti di dati per funzionare.",
-        "save": "Salva",
-        "consent_warning": "È necessario almeno acconsentire alla politica sulla privacy per utilizzare questa applicazione."
+        "consent_warning": "È necessario almeno acconsentire alla politica sulla privacy per utilizzare questa applicazione.",
+        "accept_all": "Accettare tutti",
+        "accept_selected": "Accetta selezionato"
     },
     "menu": {
         "quit": "Smettere",

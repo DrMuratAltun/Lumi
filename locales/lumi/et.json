@@ -116,6 +116,9 @@
                 "instancesCount": "Objektid, mis on loodud selle teegi peamise sisutüübina",
                 "instancesAsDependencyCount": "Objektid, milles seda teeki kasutab teine teek"
             }
+        },
+        "links": {
+            "header": "Lingid"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Isiku privaatsuse kaitsmine on meie jaoks oluline. Kogume ainult teavet, mille olete otsustanud meile anda, ja töötleme seda teie nõusolekul. Me tahame olla võimalikult läbipaistvad. Kuid Lumi tugineb mõnele ühendusele ja andmeedastusele.",
-        "save": "Salvesta",
-        "consent_warning": "Selle rakenduse kasutamiseks peate nõustuma vähemalt privaatsuseeskirjadega."
+        "consent_warning": "Selle rakenduse kasutamiseks peate nõustuma vähemalt privaatsuseeskirjadega.",
+        "accept_all": "Nõustu kõigiga",
+        "accept_selected": "Nõustu valitud"
     },
     "menu": {
         "quit": "Lõpeta",

@@ -116,6 +116,9 @@
                 "instancesCount": "Voorwerpe wat met hierdie biblioteek as die hoofinhoudtipe geskep is",
                 "instancesAsDependencyCount": "Voorwerpe waarin hierdie biblioteek deur 'n ander biblioteek gebruik word"
             }
+        },
+        "links": {
+            "header": "Skakels"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Dit is vir ons belangrik om die privaatheid van die individu te beskerm. Ons versamel slegs die inligting wat jy kies om vir ons te gee, en ons verwerk dit met jou toestemming. Ons wil so deursigtig moontlik wees. Lumi maak egter staat op sommige verbindings en data-oordragte om te werk.",
-        "save": "Stoor",
-        "consent_warning": "U moet ten minste toestemming gee vir die privaatheidsbeleid om hierdie aansoek te gebruik."
+        "consent_warning": "U moet ten minste toestemming gee vir die privaatheidsbeleid om hierdie aansoek te gebruik.",
+        "accept_all": "Aanvaar alles",
+        "accept_selected": "Aanvaar gekies"
     },
     "menu": {
         "file": {

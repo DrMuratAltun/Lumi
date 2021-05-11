@@ -116,6 +116,9 @@
                 "instancesCount": "Objecten gemaakt met deze bibliotheek als het belangrijkste inhoudstype",
                 "instancesAsDependencyCount": "Objecten waarin deze bibliotheek wordt gebruikt door een andere bibliotheek"
             }
+        },
+        "links": {
+            "header": "Links"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Het beschermen van de privacy van het individu is belangrijk voor ons. We verzamelen alleen de informatie die u ons wilt geven, en we verwerken deze met uw toestemming. We willen zo transparant mogelijk zijn. Lumi is echter afhankelijk van sommige verbindingen en gegevensoverdrachten om te werken.",
-        "save": "Opslaan",
-        "consent_warning": "U moet minimaal instemmen met het privacybeleid om deze applicatie te gebruiken."
+        "consent_warning": "U moet minimaal instemmen met het privacybeleid om deze applicatie te gebruiken.",
+        "accept_all": "Accepteer alles",
+        "accept_selected": "Accepteer geselecteerd"
     },
     "menu": {
         "quit": "Afsluiten",

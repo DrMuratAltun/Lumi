@@ -243,12 +243,16 @@
         },
         "updates": {
             "header": "更新"
+        },
+        "links": {
+            "header": "链接"
         }
     },
     "setup_dialog": {
         "consent_warning": "您需要同意隐私政策才能使用此应用程序。",
         "description": "保护个人的隐私对我们很重要。我们仅收集您选择提供给我们的信息，并且在您的同意下对其进行处理。我们希望尽可能透明。请了解，Lumi需要某些网络连接和数据传输才能正常工作。",
-        "save": "救"
+        "accept_all": "接受所有的",
+        "accept_selected": "接受选择"
     },
     "updates": {
         "consent": "允许该应用程序自动检查更新。",

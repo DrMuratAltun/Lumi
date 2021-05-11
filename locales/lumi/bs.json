@@ -116,6 +116,9 @@
                 "instancesCount": "Objekti stvoreni ovom bibliotekom kao glavnim tipom sadržaja",
                 "instancesAsDependencyCount": "Objekti u kojima ovu knjižnicu koristi druga knjižnica"
             }
+        },
+        "links": {
+            "header": "Veze"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Zaštita privatnosti pojedinca važna je za nas. Prikupljamo samo podatke koje ste nam odabrali i obrađujemo ih uz vaš pristanak. Želimo biti što transparentniji. Međutim, Lumi se na posao oslanja na neke veze i prijenose podataka.",
-        "save": "Save",
-        "consent_warning": "Da biste koristili ovu aplikaciju, morate barem pristati na politiku privatnosti."
+        "consent_warning": "Da biste koristili ovu aplikaciju, morate barem pristati na politiku privatnosti.",
+        "accept_all": "Prihvati sve",
+        "accept_selected": "Prihvati odabrano"
     },
     "menu": {
         "quit": "Prestani",

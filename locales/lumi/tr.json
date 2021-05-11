@@ -116,6 +116,9 @@
                 "instancesCount": "Ana içerik türü olarak bu kitaplıkla oluşturulan nesneler",
                 "instancesAsDependencyCount": "Bu kitaplığın başka bir kitaplık tarafından kullanıldığı nesneler"
             }
+        },
+        "links": {
+            "header": "Bağlantılar"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Bireyin mahremiyetini korumak bizim için önemlidir. Yalnızca bize vermeyi seçtiğiniz bilgileri topluyoruz ve bunları sizin izninizle işliyoruz. Mümkün olduğunca şeffaf olmak istiyoruz. Ancak Lumi, çalışmak için bazı bağlantılara ve veri aktarımlarına güveniyor.",
-        "save": "Kayıt etmek",
-        "consent_warning": "Bu uygulamayı kullanmak için en azından gizlilik politikasına onay vermeniz gerekir."
+        "consent_warning": "Bu uygulamayı kullanmak için en azından gizlilik politikasına onay vermeniz gerekir.",
+        "accept_all": "Hepsini kabul et",
+        "accept_selected": "Seçileni kabul et"
     },
     "menu": {
         "quit": "Çık",

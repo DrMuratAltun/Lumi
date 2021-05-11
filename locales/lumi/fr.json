@@ -243,12 +243,16 @@
         },
         "updates": {
             "header": "Mises à jour"
+        },
+        "links": {
+            "header": "Liens"
         }
     },
     "setup_dialog": {
         "consent_warning": "Vous devez au moins consentir à la politique de confidentialité pour utiliser cette application.",
         "description": "La protection de la vie privée de l'individu est importante pour nous. Nous collectons uniquement les informations que vous choisissez de nous fournir et nous les traitons avec votre consentement. Nous voulons être aussi transparents que possible. Cependant Lumi s'appuie sur certaines connexions et transferts de données pour fonctionner.",
-        "save": "Sauvegarder"
+        "accept_all": "Accepter tout",
+        "accept_selected": "Accepter la sélection"
     },
     "updates": {
         "consent": "J'autorise cette application à rechercher automatiquement les mises à jour.",

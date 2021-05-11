@@ -116,6 +116,9 @@
                 "instancesCount": "Predmeti, ustvarjeni s to knjižnico kot glavno vrsto vsebine",
                 "instancesAsDependencyCount": "Predmeti, v katerih to knjižnico uporablja druga knjižnica"
             }
+        },
+        "links": {
+            "header": "Povezave"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Zaščita zasebnosti posameznika je za nas pomembna. Zbiramo samo podatke, ki ste jih izbrali, in jih obdelujemo z vašim soglasjem. Želimo biti čim bolj pregledni. Vendar se Lumi pri delu zanaša na nekatere povezave in prenose podatkov.",
-        "save": "Shrani",
-        "consent_warning": "Za uporabo te aplikacije se morate vsaj strinjati s politiko zasebnosti."
+        "consent_warning": "Za uporabo te aplikacije se morate vsaj strinjati s politiko zasebnosti.",
+        "accept_all": "Sprejmi vse",
+        "accept_selected": "Sprejmi izbrano"
     },
     "menu": {
         "quit": "Prenehati",

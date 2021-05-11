@@ -116,6 +116,9 @@
                 "instancesCount": "Objectes creats amb aquesta biblioteca com a tipus de contingut principal",
                 "instancesAsDependencyCount": "Objectes en què aquesta biblioteca la fa servir una altra biblioteca"
             }
+        },
+        "links": {
+            "header": "Enllaços"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Protegir la privadesa de la persona és important per a nosaltres. Només recopilem la informació que trieu per donar-nos i la processem amb el vostre consentiment. Volem ser el més transparents possible. No obstant això, Lumi confia en algunes connexions i transferències de dades per funcionar.",
-        "save": "Desa",
-        "consent_warning": "Per utilitzar aquesta aplicació, heu de consentir almenys la política de privadesa."
+        "consent_warning": "Per utilitzar aquesta aplicació, heu de consentir almenys la política de privadesa.",
+        "accept_all": "Accepta-ho tot",
+        "accept_selected": "Accepta seleccionats"
     },
     "menu": {
         "quit": "Deixa",

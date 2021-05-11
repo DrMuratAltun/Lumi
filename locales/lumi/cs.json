@@ -116,6 +116,9 @@
                 "instancesCount": "Objekty vytvořené pomocí této knihovny jako hlavního typu obsahu",
                 "instancesAsDependencyCount": "Objekty, ve kterých tuto knihovnu používá jiná knihovna"
             }
+        },
+        "links": {
+            "header": "Odkazy"
         }
     },
     "analytics": {
@@ -164,8 +167,9 @@
     },
     "setup_dialog": {
         "description": "Ochrana soukromí jednotlivce je pro nás důležitá. Shromažďujeme pouze informace, které se nám rozhodnete poskytnout, a zpracováváme je s vaším souhlasem. Chceme být co nejvíce transparentní. Lumi však spoléhá na to, že některá připojení a datové přenosy budou fungovat.",
-        "save": "Uložit",
-        "consent_warning": "Abyste mohli tuto aplikaci používat, musíte alespoň souhlasit se zásadami ochrany osobních údajů."
+        "consent_warning": "Abyste mohli tuto aplikaci používat, musíte alespoň souhlasit se zásadami ochrany osobních údajů.",
+        "accept_all": "Přijmout vše",
+        "accept_selected": "Přijmout vybrané"
     },
     "menu": {
         "quit": "Přestat",
